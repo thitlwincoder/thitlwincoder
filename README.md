@@ -15,3 +15,10 @@ Hi, I'm Thit Lwin, a Junior Developer 🚀 from Myanmar. I am studies at Univers
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about mobile development, I am happy to help;
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thitlwincoder&show_icons=true" alt="thitlwincoder" />
+
+</details>
