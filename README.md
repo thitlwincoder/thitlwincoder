@@ -9,3 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=thitlwincoder)
 
 Hi, I'm Thit Lwin, a Junior Developer 🚀 from Myanmar. I am studies at University of Computer Studies, Dawei.
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Flutter; 
+- 💬 Ask me about mobile development, I am happy to help;
