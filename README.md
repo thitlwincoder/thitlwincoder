@@ -8,6 +8,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thitlwincoder.thitlwincoder)
 ![](https://komarev.com/ghpvc/?username=thitlwincoder)
 
-<br />
-
-Hi, I'm Thit Lwin, a Junior Developer 🚀 from Myanmar,
+Hi, I'm Thit Lwin, a Junior Developer 🚀 from Myanmar. I am studies at University of Computer Studies, Dawei.
