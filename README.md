@@ -10,7 +10,7 @@ Hi, I'm Thit Lwin, a Junior Developer 🚀 from Myanmar(Burmese). I am studies a
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter; 
+- 🌱 I’m currently learning Flutter and Laravel; 
 - 💬 Ask me about mobile development, I am happy to help;
 
 <details>
