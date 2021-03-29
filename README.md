@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/thitlwincoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thitlwincoder" height="20" width="20" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/thitlwincoder"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 
-Hi, I'm Thit Lwin, a Junior Developer 🚀 from Myanmar(Burmese). I am studies at University of Computer Studies, Dawei.
+Hi, I'm Thit Lwin, a Flutter Developer from Myanmar(Burmese). I am studies at University of Computer Studies, Dawei.
 
 **Talking about Personal Stuffs:**
 
