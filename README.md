@@ -5,11 +5,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thitlwincoder.thitlwincoder)
 ![](https://komarev.com/ghpvc/?username=thitlwincoder)
 
-<a href="https://www.facebook.com/thitlwincoder"><img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>&nbsp;
-<a href="https://linkedin.com/in/thitlwincoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>&nbsp;
-<a href="https://www.freelancer.com/u/thitlwincoder"><img align="center" alt="Freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg" /></a>&nbsp;
-<a href="https://paypal.me/thitlwin312"><img align="center" alt="Paypal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/paypal.svg" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/thitlwincoder"><img align="center" alt="Buy Me A Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/thitlwincoder)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/thitlwincoder)
+[![Freelancer](https://img.shields.io/badge/-Freelancer-blue?style=flat&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/thitlwincoder)
+[![Paypal](https://img.shields.io/badge/-Paypal-blue?style=flat&logo=Paypal&logoColor=white)](https://paypal.me/thitlwin312)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buymeacoffee-blue?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/thitlwincoder)
 
 Hi, I'm Thit Lwin, a Flutter Developer from Myanmar(Burmese). I am studies at University of Computer Studies, Dawei.
 
