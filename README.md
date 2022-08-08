@@ -10,7 +10,7 @@
 [![Freelancer](https://img.shields.io/badge/-Freelancer-blue?style=flat&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/thitlwincoder)
 [![Paypal](https://img.shields.io/badge/-Paypal-blue?style=flat&logo=Paypal&logoColor=white)](https://paypal.me/thitlwin312)
 [![Buy Me A Coffee](https://img.shields.io/badge/-buymeacoffee-blue?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/thitlwincoder)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thitlwincoder)
+[![Ko-fi](https://img.shields.io/badge/kofi-red?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/thitlwincoder)
 
 Hi, I'm Thit Lwin, a Flutter Developer from Myanmar(Burmese). I am studies at University of Computer Studies, Dawei.
 
