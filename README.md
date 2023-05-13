@@ -17,7 +17,7 @@ Hi, I'm Thit Lwin, a Flutter Developer from Myanmar(Burmese). I am studies at Un
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Flutter and Laravel
-- 💬 Ask me about mobile development, I am happy to help
+- 💬 Ask me about flutter development, I am happy to help
 
 Check My [CV Form](https://thitlwincoder.github.io)
 
