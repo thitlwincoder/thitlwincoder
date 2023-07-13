@@ -31,4 +31,4 @@ Check My [CV Form](https://thitlwincoder.github.io)
 </p>
 <br>
 
-[![Thit Lwin' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thitlwincoder&theme=gruvbox)](https://github.com/thitlwincoder)
+[![Thit Lwin' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thitlwincoder&theme=gruvbox)](https://github.com/thitlwincoder)
