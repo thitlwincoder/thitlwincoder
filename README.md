@@ -32,3 +32,6 @@ Check My [CV Form](https://thitlwincoder.github.io)
 <br>
 
 [![Thit Lwin' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thitlwincoder&theme=gruvbox)](https://github.com/thitlwincoder)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
