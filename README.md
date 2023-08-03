@@ -36,11 +36,11 @@ Check My [CV Form](https://thitlwincoder.github.io)
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         4 hrs 23 mins   ████████████████████▓░░░░   82.56 %
-YAML         49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Dart         11 hrs 1 min    ██████████████████████▒░░   89.04 %
+YAML         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
