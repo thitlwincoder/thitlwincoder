@@ -32,15 +32,3 @@ Check My [CV Form](https://thitlwincoder.github.io)
 <br>
 
 [![Thit Lwin' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thitlwincoder&theme=gruvbox)](https://github.com/thitlwincoder)
-
-<!--START_SECTION:waka-->
-
-```txt
-Dart         17 hrs 51 mins  ██████████████████████▓░░   90.22 %
-YAML         1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
-<!--END_SECTION:waka-->
