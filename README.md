@@ -13,7 +13,7 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thitlwincoder)
 [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](383818993)
 
-Hi, I'm Thit Lwin, a Flutter Developer from Myanmar(Burmese). I am studies at University of Computer Studies, Dawei.
+Hi, I'm Thit Lwin, a Flutter Developer from Myanmar(Burmese).
 
 **Talking about Personal Stuffs:**
 
